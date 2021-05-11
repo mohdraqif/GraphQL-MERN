@@ -9,7 +9,7 @@
     "eslint": "^7.3.1",
     "extend": "^3.0.2",
     "graphql": "^0.13.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "lodash.template": "^4.5.0",
     "mem": "^6.1.0",
     "nwmatcher": "^1.4.4",
